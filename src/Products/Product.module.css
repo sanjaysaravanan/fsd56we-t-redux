@@ -1,0 +1,12 @@
+.root {
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 8px;
+}
+
+.root > img {
+  height: 200px;
+  width: 250px;
+  object-fit: contain;
+}
